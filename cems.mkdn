@@ -1,0 +1,372 @@
+% Geneva County, Alabama Cemeteries
+% Chris T. Outlaw
+% 06 Sep 2026
+
+## Geneva County, Alabama Cemeteries
+
+This list of Geneva County cemeteries was compiled
+from highway maps which can be viewed at [alabamamaps.ua.edu][] 
+or the most recent map is available in [pdf][co31pdf] or
+paper form from the Alabama Department of Transportation.
+
+[alabamamaps.ua.edu]: http://alabamamaps.ua.edu/historicalmaps/counties/geneva/geneva.html
+[co31pdf]: https://aldotgis.dot.state.al.us/GeneralHighwayPDF/web/co31.pdf
+
+The <cite>Historical Atlas of Alabama Volume II: Cemetery
+Locations by County, 3rd Edition</cite>
+contains cemetery locations for each county and can
+be purchased from the [University of Alabama][].
+
+[University of Alabama]: http://alabamamaps.ua.edu/cartlab/publications/
+
+? Cemetery, T1N, R20E, S5, 2¼ miles southwest of
+  Samson on Chase Rd./Co.Rd.16.
+
+? Cemetery, T1N, R19E, S8, ½ mile southeast of
+  Hacoda on Iron Bridge Rd.(dirt).
+
+? Cemetery, T1N, R20E, S31, 7½ miles south of
+  Samson at the intersection of Reese Church Rd. and Alford Rd./Co.Rd. 10.
+
+[Adoniram Cemetery](Adoniram.html)(17 Jun 1997),
+  T1N, R23E, S28, 1½ miles north of Black on Co.Rd. 6.
+
+[Antioch Church][TYR], T1N, R22E, S12, 3 miles northeast of
+  Geneva on St.Rd. 52.
+
+Antioch Church, T7N, R13W, S16, 7½ miles southeast of
+  Slocomb on St.Rd. 103.
+
+Bellwood Cemetery, T2N, R22E, S1, on the corner of Krebb St.
+  and Powell St. in Bellwood.
+
+Bethel Church, T2N, R24E, S6, 4½ miles north of Hartford
+  on Shiloh Rd/Co.Rd. 69.
+
+Bethesda Church, T1N, R25E, S10, 3 miles southeast of
+  Slocomb on dirt road 1 mile west of the intersection
+  of Co.Rds. 60 and 49.
+
+Bethlehem Church, T2N, R25E, S11, 1½ miles northeast of
+  Malvern on Co.Rd. 70.
+
+[Black Cemetery][TYR], T1N, R23E, S33, ¼ mile west of Black
+  on Lowery St./Co.Rd. 4.
+
+[Burns Church][TYR], T2N, R25E, S33, 2 miles east of Slocomb on
+  Co.Rd. 30.
+
+[Carter Family Cemetery](carter.htm),T1N, R22E, S16,
+  1½ miles north of Geneva on St.Rd. 85.
+
+[Cassady Cemetery][TYR], T2N, R19E, S19, 8½ miles northwest of Samson,
+  west of Forest Area Rd.
+
+Christian Home Church, T1N, R23E, S14, 3½ miles south of
+  Hartford on Co.Rd. 61.
+
+[Christian Home Church](chome.html)(19 May 1998),
+  T1N, R25E, S5, 2¼ miles southeast of Slocomb off Co.Rd. 28
+  on Nathan Rd.
+
+Coffee Springs Cemetery, T2N, R21E, S2?, on Spring St. in Coffee Springs.
+
+[Corinth Church][TYR], T1N, R25E, S11, 5¼ miles southeast of
+  Slocomb on Co.Rd. 49.
+
+Corner Creek Church, T1N, R19E, S17,
+  7½ miles southwest of Samson on Co.Rd. 10.
+
+Corner Creek Upper Cemetery,
+  T1N, R19E, S17, 7½ miles southwest of Samson on Co.Rd. 1,
+  southwest of Corner Creek Church.
+
+[Crews Cemetery](crews.html)(17 May 1998),
+  T2N, R20E, S7, 4 miles northwest of Samson on Co.Rd. 95.
+
+[Dannelly Cemetery](dannelly.html)(17 May 1998),
+  T2N, R20E, S33, 1 mile south of Samson on Grady Dunn Rd.(dirt).
+
+Davis Cemetery, T7N, R15W, S24, 2¼ miles east of Black
+  on High Note Rd. off of WV Armstrong Rd.
+
+Earlytown Church, T2N, R19E, S22, 5½ miles west of
+  Samson off of St.Rd. 52 on Early Town Rd.
+
+Eden Church, T2N, R21E, S28, 6 miles east of Samson on
+  Co.Rd. 65.
+
+El Bethel Church, T2N, R22E, S7, 1½ miles east of
+  Coffee Springs at the intersection
+  of E Dogwood Trail/Co.Rd. 40 and St.Rd. 27.
+
+[Eunola Cemetery](eunola.html)(16 May 1998),
+  T1N, R22E, S22, 2 miles east of Geneva on Co.Rd. 4.
+
+Fadette Church, T1N, R25E, S21, 5¼ miles southeast of
+  Slocomb on St.Rd. 103.
+
+Fellowship Church, T2N, R23E, S28, 3 miles west of Hartford on Co.Rd. 38.
+
+[Flat Creek Cemetery](flatcrk.html)(17 May 1998),
+  T2N, R19E, S28, 5½–6 miles west of Samson on Maloy Rd.(dirt)
+  just east of the bridge on St.Rd. 54.
+
+Flat Creek Church,
+  T1N, R19E, S24, 6 miles southwest of Samson on Co.Rd. 10 west of
+  the intersection with St.Rd. 153.
+
+Friendship Church Cemetery, T2N, R22E, S31, 5 miles north of
+  Geneva on St.Rd. 27.
+
+[Geneva City Cemetery][TYR], S Commerce St. and E Magnolia St. in Geneva.
+
+Greater Pleasant Valley Church, T2N, R22E, S7, 1½ miles east
+  of Coffee Springs on Leslie Rd. off of St.Rd. 27.
+
+[Hall & Rivers Cemetery](HallsRivers.html)(17 May 1998),
+  T2N, R20E, S32, 1¼ miles southwest of Samson on Columbus
+  Holley Rd./Co.Rd. 17.
+
+Hartford City Cemetery, W Commerce St./Co.Rd.45 and W Line St. in Hartford.
+
+Highfalls Church, T2N, R22E, S36, 5 miles northeast of
+  Geneva on Co.Rd. 41.
+
+[Hinson Cemetery](hinson.html)(16 Jun 1997),
+  T2N, R25E, S12, 2 miles northeast of Malvern in a field north of
+  the intersection of Newton Creek Rd. and Hinson Rd.
+
+House of Prayer, T2N, R24E, S8/9, 4 miles northeast of
+  Hartford on Co.Rd. 46.
+
+Hurricane Church, T1N, R24E, S5, 2¾ miles southeast
+  of Hartford on Co.Rd. 69.
+
+Immanuel Church, T1N, R25E, S2, 3½ miles south of
+  Malvern near the corner of Chipola Rd.(dirt) and Co.Rd. 28.
+
+Jones Cemetery, T2N, R22E, S27, 5 miles north of Geneva
+  in a field east of Co.Rd. 85.
+
+[Leddon Church](leddon.html)(18 May 1998),
+  T1N, R21E, S15, 4 miles west of Geneva on Co.Rd. 83.
+
+Liberty Chapel Church, T1N, R20E, S24, 8¼ miles west
+  of Geneva on Caldwell Rd. off of Goat Hill Rd./Co.Rd. 4.
+
+Lime Springs Church,
+  T1N, R19E, S12, 4¼ miles southwest of Samson on St.Rd. 153.
+
+[Lowery Cemetery](Lowery.html)(17/18 May 1998),
+  T2N, R19E, S4, at the corner of St.Rd. 52 and Dick Dunn Rd. west of Lowery.
+
+Macedonia Cemetery, T2N, R24E, S18, 2½ miles north of
+  Hartford on Gospel Rd.(dirt) off of Shiloh Rd./Co.Rd. 69.
+
+Malvern Baptist Church, T2N,R25E, S22, Corner of Main St.
+  and St.Rd. 52 in Malvern.
+
+[Martin Cemetery](martin.html)(16 Jun 1997),
+  T1N, R25E, S4, 3 miles southeast of Slocomb on Tindil Creek Rd.(dirt)
+  off of Smith Rd./Co.Rd. 28.
+
+[McDuffie Cemetery](mcduffie.html)(16 May 1998),
+  T1N, R21E, S28, 5 miles west of Geneva on Steven Ferry Rd.(dirt)
+  off of Co.Rd. 4.
+
+McDuffie Cemetery, T7N, R17W, S28, 5½ miles southwest of
+  Geneva on dirt road north of St.Rd. 27.
+
+[Millville Church](millvil.html)(20 May 1998),
+  T1N, R23E, S26, 2¼ miles northeast of Black on Millville Rd.(dirt).
+
+Mims Family Cemetery, T1N, R22E, S4?, 3 miles north of
+  Geneva on St.Rd. 85.
+
+Mt. Calvary Church, T1N, R25E, S26, 7¼ miles southeast
+  of Slocomb on Grady Garner Rd./Co.Rd. 51.
+
+Mt. Carmel Cemetery, T2N, R21E, S11, on Coffee Springs Rd./Co.Rd. 64.
+  ¾ mile southwest of Coffee Springs.
+
+Mt. Carmel Church, T2N, R20E, S1, on the corner of
+  Stephenson Rd./Co.Rd. 64. and Mt. Carmel Rd. 5 miles
+  northeast of Samson.
+
+Mt. Gilead(Eight Mile) Church,
+  T6N, R19W, S30, 11 miles southwest of Samson on Doyle Morgan Rd.(dirt)
+  off of Co.Rd. 4.
+
+[Mt. Gilead Primitive Baptist Church Cemetery](http://www.trackingyourroots.com/data/mtgilead.htm),
+  Houston Co., Alabama. 6½ miles north of Hartford on Co.Rd. 41.
+
+Mt. Mariah Memorial Cemetery, T2N, R22E, S2/3, 2 miles west of
+  Bellwood north of Triumph Rd. and south of Lake Fox Rd./Co.Rd. 64.
+
+Mt. Pleasant Church,
+  T2N, R19E, S35, 4 miles west of Samson on St.Rd. 153 at James Johnson Rd.
+
+New Hinson Church,
+  T1N, R25E, S23, 6 miles southeast of Slocomb on Co.Rd. 48.
+
+New Home Church, T1N, R20E, S3, 2 miles south of Samson
+  on Co.Rd. 16.
+
+New Hope Church, T3N, R22E, S35, 2 miles northwest of
+  Bellwood on Lake Green Rd.
+
+New Post Oak Church, T1N, R24E, S22, 5 miles southwest of
+  Slocomb on Co.Rd. 107 at Thorne Rd./Co.Rd. 14.
+
+New Prospect Church Cemetery, T1N, R24E, S34, 6½ miles east of
+  Black on Co.Rd. 4.
+
+New Prospect Church, T2N, R21E, S31, 3½ miles southeast
+  of Samson on Co.Rd. 19 north of St.Rd. 52.
+
+New Teamon Church, T1N, R24E, S25, 5¼ miles south of
+  Slocomb on Co.Rd. 85.
+
+[Oak Grove Cemetery](oakgrv.html)(16 Jun 1997),
+  T2N, R24E, S15, 2¾ miles northwest of Slocomb at the corner
+  of Harrell St. and Co.Rd. 44.
+
+Oak Ridge Church, T2N, R19E, S26, 4 miles west of
+  Samson on St.Rd. 52.
+
+[Old Sardis Cemetery](sardisold.html)(17 May 1998),
+  T1N, R19E, S5, 7 miles west of Samson on dirt road off of
+  St.Rd. 54 or 1 mile north of Hacoda on 54.
+
+Panther Creek Church, T3N, R25E, S31, 6 miles north of Slocomb
+  on Co.Rd. 62/Bailey Rd.
+
+[Pate Cemetery](pate.html)(17 Jun 1997),
+  T7N, R14W, S19, 4½  miles southeast of Black on Cannon Rd.
+  off of Co.Rd. 67 in Holmes Co., Florida.
+
+[Pilgrims Rest Church](pilgrims.html)(20 May 1998),
+  T7N, R13W, S14, 8½ miles southeast of Slocomb on
+  Piligrim’s Rest Rd.(dirt) off of Co.Rd. 4.
+
+Piney Grove Assembly of God Church, T2N, R20E, S4, 3½–4 miles
+  north of Samson on the east side of St.Rd. 87.
+
+Piney Grove Baptist Church, T2N, R20E, S4, 4–4½ miles north of
+  Samson on the west side of St.Rd. 87.
+
+Pleasant Grove Church, T1N, R25E, S25, 8 miles southeast of
+  Slocomb on Co.Rd. 4.
+
+Pleasant Hill Church, T2N, R24E, S26, 1½ miles west of
+  Slocomb on Pleasent Hill Rd. near 52.
+
+[Pleasant Home Cemetery](pleasmal.html)(16 May 1998),
+  T1N, R23E, S31, small cemetery, 2 miles west of Black on Co.Rd. 53
+  west of Pleasant Home Church.
+
+Pleasant Home Church, T1N, R23E, S31, 2 miles west of
+ Black on Lee Mixon Rd.(dirt) east of Co.Rd. 53.
+
+Pleasant Ridge Church, T1N, R21E, S4, 6 miles northwest
+  of Geneva on Sandy Creek Rd./Co.Rd. 65.
+
+[Pondtown Church](pondtown.html)(1995–1997),
+  T1N, R23E, S11, 2⅜ miles south of Hartford on Pondtown Rd.
+  off of Co.Rd. 16.
+
+[Providence Cemetery(Reneau)][TYR],
+  T2N, R24E, S13, 2 miles north of Slocomb on the east
+  side of St.Rd. 103.
+  
+Providence Methodist Church, T2N, R22E, S28, 5 miles
+  north of Geneva on St.Rd. 85.
+
+[Purvis Cemetery](Purvis.html)(16 Jun 1997),
+  T2N, R25E, S20, 2 miles northeast of Slocomb on S Watford Rd.(dirt)
+  off of St.Rd. 52.
+
+Reese Church,
+  T1N, R19E, S36, 7¾ miles southwest of Samson on Reese
+  Church Rd./Co.Rd. 4.
+
+Samson Church, T2N, R20E, S30, 2 miles west of Samson
+  on St.Rd. 52.
+
+Samson Church, T1N, R20E, S9, 2¾ miles south of Samson
+  on St.Rd. 87.
+
+[Shady Grove Church][TYR], T2N, R21E, S7, off of
+  Stephenson Rd./Co.Rd. 64 on the corner of Sam Eldridge
+  Rd. and Shady Grove Rd. 5 miles northeast of Samson.
+
+Shiloh Baptist Church, on Shiloh Rd./Co.Rd. 69 east of Hartford.
+
+Silverene Church, T2N, R22E, S1, on Donnell St. in Bellwood.
+
+[Spikes Cemetery](spikes.html)(16 Jun 1997),
+  T1N, R23E, S26, 2½ miles northeast of Black on
+  Ben Pate Rd./Millville Rd.
+
+[Spring Creek or Crutchfield Cemetery](sprngcrk.html)(16 Jul 1997),
+  T1N, R23E, S21, east of Firetower Rd./Co.Rd. 55 and
+  south of Spring Creek 2⅛ miles north of Black.
+
+Spring Hill Cemetery, T7N, R16W, S19, 3½ miles south of
+  Geneva on E Skyline Ave./Co.Rd 33.
+
+St. Michaels Cemetery, T1N, R22E, S27/34, 2½ miles southeast of
+  Geneva off of Co.Rd. 89.
+
+[St. James Church](stjames.html)(20 May 1998),
+  T7N, R16W, S23, 4 miles west of Black on Co.Rd. 89.
+
+[St. Paul Church](stpaul.html)(19 Jun 1997),
+  T2N, R23E, S22, 2 miles northwest of Hartford on Co.Rd. 36
+  off of St.Rd. 167.
+
+Sunset Memorial Gardens Cemetery, T1N, R21E, S10, 4 miles
+  northwest of Geneva on St.Rd. 52.
+
+Tabernacle Church, T2N, R24E, S9,
+  on St.Rd. 123 north of the intersection with Airport Rd./Co.Rd. 85,
+  5 miles northeast of Hartford.
+
+[Travelers Rest Church][TYR], T2N, R20E, S20, 1½ miles northwest
+  of Samson on Traveler’s Rest Rd./Co.Rd. 17.
+
+Union Church, T2N, R24E, S12, 3 miles north of Slocomb at
+  the intersection of St.Rd. 103 and Co.Rd. 44.
+
+[Union Hill Church][TYR], T1N, R24E, S11, 3 miles southwest of
+  Slocomb on Union Hill Rd. off of Co.Rd. 9.
+
+[Vaughanville Cemetery](vaughanv.html)(17 Jun 1997),
+  T1N, R21E, S35, 3½ miles southwest of Geneva on Size More Hwy/St.Rd. 27.
+
+[Weeks Chapel Church](weekschp.htm), T2N, R19E, S11,
+  5 miles northwest of Samson at the corner of Weeks Chapel Rd. and
+  Co.Rd. 5.
+
+Wesley Chapel Church, T2N, R23E, S30, 5½ miles west of Hartford
+  on Co.Rd. 41 at Jim Martin Rd.
+
+[Whaley? Cemetery](nmacedonia.html)(18 May 1998),
+  T2N, R24E, S18, 3½ miles north of Hartford on Shiloh Rd./Co.Rd. 69
+  just north of Hurricane Creek.
+
+Whitaker Church, T7N, R13W, S19, 7 miles south of
+  Slocomb on Co.Rd. 4.
+
+[Wright Chapel Cemetery](writchap.html)(19 Jun 1997),
+  T2N, R24E, S32, 2¼–2½ miles east of Hartford on St.Rd. 52
+  and a few hundred feet north of the road behind a house at
+  the edge of a field.
+
+[Wright Church Cemetery](wrightchurch.html)(19 May 1998),
+  T1N, R25E, S29, on Wrights Rd. 5⅜ miles south of Slocomb.
+
+[TYR]: http://www.trackingyourroots.com/data/genevacems.htm
+
+- - - -

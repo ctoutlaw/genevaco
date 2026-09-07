@@ -1,0 +1,111 @@
+% Geneva County, Alabama Genealogy
+% Chris T. Outlaw
+%  07 Sep 2026
+
+# Geneva County, Alabama Genealogy #
+
+  - [Cemeteries](cems.html) of Geneva County
+
+  - Federal Population Census,
+    [1870](http://archive.org/stream/populationschedu0017unit#page/n2/mode/1up),
+    [1880](http://archive.org/stream/10thcensus0013unit#page/n771/mode/1up),
+    [1900](http://archive.org/stream/12thcensusofpopu0017unit#page/n1/mode/1up),
+    1910 [(1)](http://archive.org/stream/13thcensus1910po0014unit#page/n412/mode/1up)
+    [(2)](http://archive.org/stream/13thcensus1910po0012unit#page/n1045/mode/1up),
+    1920 [(1)](http://archive.org/stream/14thcensusofpopu15unit#page/n1017/mode/1up)
+    [(2)](http://archive.org/stream/14thcensusofpopu16unit#page/n4/mode/1up)
+
+  - Duke Vickrey’s
+    [Reconstructed Federal Land Tract Book](http://web.archive.org/web/20091023154107/http://geocities.com/Heartland/Bluffs/3010/gene-idx.htm)
+
+## Local Sources ##
+
+  - Probate Judge Office of Geneva Co.  
+    P.O. Box 430  
+    Geneva, AL 36340
+
+    The courthouse is located at 200 N. Commerce street and has
+    records from 1898 forward. Some records (1898–1929) have
+    been damaged by floods.
+
+  - [Emma Knox Kenan Library](https://www.genevaal.gov/library)  
+    312 S. Commerce St.  
+    Geneva, AL 36340
+
+    One of the best resources for the county are the cemetery
+    records compiled by Mr. and Mrs. J.R. Phipps, 1962–1972.
+    A copy of the two volume set is available here and at the
+    Alabama Department of Archives and History.
+
+    The library also has the Reaper newspaper, original and on
+    microfilm from about 1900 forward.
+
+## Alabama Department of Archives and History ##
+
+  - [Alabama Department of Archives and History](https://archives.alabama.gov/)  
+    624 Washington Ave  
+    Montgomery, AL 36130
+
+## Books and Magazine ##
+
+  - <cite>SEAGHS Magazine</cite>
+
+    Southeast Alabama Genealogical and Historical Society  
+    P. O. Box 246  
+    Dothan, AL 36302–0246
+
+  - <cite>Hartford City Cemetery, Geneva County, Alabama</cite>  
+    by Mildred Stanley and Helon Cutler, 1997  
+
+    Southeast Alabama Genealogical and Historical Society  
+    P.O. Box 246  
+    Dothan, AL 36302–0246
+
+  - <cite>Geneva County, Alabama Marriage Records 1898–1930</cite>  
+    by Warrine Sheppard Hathaway, 1996
+
+  - <cite>A Geneva County Album</cite>  
+    Geneva County Historical Society, 1987  
+    Published by Geneva County Publications, Inc.
+
+  - <cite>Geneva, Alabama — A History</cite>  
+    by The Geneva Woman’s Club, 1987
+
+  - <cite>Geneva County, Alabama Tomb Records Vol. 1 and 2</cite>  
+    Compiled by Mr. and Mrs. J. R. Phipps, 1962–1972
+
+  - <cite>History of Alabama and Dictionary of Alabama Biography Vol. 1</cite>  
+    by Thomas McAdory Owen
+
+    Originally published in 1921, reprinted 1978 by The Reprint Company.
+    The Geneva County [article][TMO] appears on pages 644–646.
+
+  - <cite>Northern Alabama Historical and Biographical Illustrated</cite>
+
+    Originally published by Smith and Deland, 1888, Birmingham, Ala.
+    Reprinted 1976 by The Reprint Company, Spartanburg, SC.
+    The Geneva County [article][S&D] appears on pages 235–236.
+
+## Maps ##
+
+  - A county road map showing cemetery names and locations as
+    well as township, range and section infomation is available
+    from:
+
+    [Alabama Department of Transportation][]  
+    Attn: Map Sales  
+    1409 Coliseum Boulevard  
+    P. O. Box 36110  
+    Montgomery, Alabama 36130-3050
+
+  - The <cite>Historical Atlas of Alabama Volume II: Cemetery
+    Locations by County, 3rd Edition</cite>
+    contains cemetery locations for each county and can
+    be purchased from the [University of Alabama][].
+
+[TMO]: http://archive.org/stream/historyofalabama01owen#page/644/mode/1up
+[S&D]: http://archive.org/stream/northernalabamah00birm#page/235/mode/1up
+[Alabama Department of Transportation]: https://www.dot.state.al.us/maps.html
+[University of Alabama]: http://alabamamaps.ua.edu/cartlab/publications/
+
+----

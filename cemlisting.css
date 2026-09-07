@@ -1,0 +1,17 @@
+*{border:0;margin:0;padding:0;}
+body { font-family: serif; font-weight: normal; max-width: 50em; font-size: 16px; line-height: 20px; padding: 0 1.0em 1.0em 1.0em; margin: 0 auto; }
+h3 { text-align: center; font-weight: bold; font-size: 20px; line-height: 20px; }
+h3:first-child { margin: 40px auto 60px auto; }
+p, h3 { margin: 20px auto 20px 0; }
+p.location, p.survey_date { text-align: center; }
+p#otherkey { font-size: 0.8em; line-height: 20px; }
+table { width: 100%; border-collapse: collapse; margin-bottom: -10px; }
+td { padding-top: 10px; padding-bottom: 10px; padding-right: 0.5em; padding-left: 0.5em; }
+tr { vertical-align: baseline; }
+tr:first-child td { padding-top: 20px; }
+tr td:nth-child(1) { text-align: right; white-space: nowrap;}
+tr td:nth-child(2) { width: 30%; }
+tr td:nth-child(3) { text-align: right; white-space: nowrap;}
+tr td:nth-child(4) { text-align: right; white-space: nowrap;}
+tr:hover td, th{ background: Gainsboro; }
+hr { border: 1px inset rgb(238,238,238); margin: 20px 0 -2px 0;}

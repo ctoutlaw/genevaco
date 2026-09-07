@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$">
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+<style type="text/css">
+body { font-family: serif; font-weight: normal; max-width: 35em; font-size: 16px; line-height: 20px; padding: 0 1.0em 1.0em 1.0em; margin: 0 auto; }
+h2 { text-align: center; font-weight: bold; font-size: 22px; line-height: 20px; }
+h2:first-child { margin: 40px auto 40px auto; }
+p, h2 { margin: 20px auto 20px 0; }
+</style>
+</head>
+<body>
+$body$
+<p>This document part of:
+<a href="https://github.com/ctoutlaw/genevaco/index.html">Geneva County, Alabama Genealogy</a><br />
+$date$<br />
+© Chris T. Outlaw</p>
+</body>
+</html>
