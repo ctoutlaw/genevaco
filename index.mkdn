@@ -1,6 +1,6 @@
 % Geneva County, Alabama Genealogy
 % Chris T. Outlaw
-%  07 Sep 2026
+%  08 Sep 2026
 
 # Geneva County, Alabama Genealogy #
 
@@ -105,7 +105,7 @@
 
 [TMO]: http://archive.org/stream/historyofalabama01owen#page/644/mode/1up
 [S&D]: http://archive.org/stream/northernalabamah00birm#page/235/mode/1up
-[Alabama Department of Transportation]: https://www.dot.state.al.us/maps.html
+[Alabama Department of Transportation]: https://aldotgis.dot.state.al.us/GeneralHighwayPDF/web/co31.pdf
 [University of Alabama]: http://alabamamaps.ua.edu/cartlab/publications/
 
 ----
